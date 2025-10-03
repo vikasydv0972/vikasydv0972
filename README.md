@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vikas Yadav 👋
 
-<!--
-**vikasydv0972/vikasydv0972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Backend Developer**  
+🚀 Passionate about building scalable **REST APIs and microservices** using **Spring Boot, Spring Security (JWT), Hibernate, and Docker**.  
+📦 Experienced with **Java, SQL, Multithreading, API integrations**, and deploying production-grade applications.  
+🌱 Currently exploring **cloud-native development** and DevOps practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Spring Boot, Spring Security (JWT), Hibernate/JPA, REST APIs  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **DevOps / Tools:** Docker, Git, Maven, Postman, Linux  
+- **Others:** Multithreading, Socket Programming, API Integration  
+- **Frontend (Basic):** HTML5, CSS3
+
+---
+
+### 📂 Featured Projects
+- [📓 Journal Application](https://github.com/vikasydv0972/Journal-App) – REST API with Spring Boot, MongoDB, JWT Auth, Weather API & Sentiment Analysis  
+- [⬇️ Internet Download Manager](https://github.com/vikasydv0972/Internet-Download-Manager) – JavaFX GUI, Multi-threaded downloading with real-time progress  
+- [⚙️ CDR Proxy Server](#) – Dockerized TCP/UDP server for telecom CDR processing with SIP protocol & PostgreSQL optimization
+
+---
+
+### 📈 GitHub Stats
+![Vikas' GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasydv0972&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasydv0972&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vikasyadav0971@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasydv0972)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/vikasydv0972)
+
+---
+⭐️ *“Always learning, always building!”*
