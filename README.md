@@ -72,7 +72,7 @@
 - 📘 [**Journal Application**](https://github.com/vikasydv0972/Journal-App)  
   A REST API-based journal app using Spring Boot with Weather API, Sentiment Analysis, JWT Security, Email Notifications, and Caching.
 
-- ⚡ [**Internet Download Manager**](https://github.com/vikasydv0972/Internet-Download-Manager)  
+- ⚡ [**Internet Download Manager**](https://github.com/vikasydv0972/Download_Manager)  
   A JavaFX-based desktop download manager with multi-threaded downloading and real-time progress tracking.
 
 ---
