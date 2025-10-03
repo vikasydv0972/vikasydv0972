@@ -19,7 +19,7 @@
 
 ### 📂 Featured Projects
 - [📓 Journal Application](https://github.com/vikasydv0972/Journal-App) – REST API with Spring Boot, MongoDB, JWT Auth, Weather API & Sentiment Analysis  
-- [⬇️ Internet Download Manager](https://github.com/vikasydv0972/Internet-Download-Manager) – JavaFX GUI, Multi-threaded downloading with real-time progress  
+- [⬇️ Internet Download Manager](https://github.com/vikasydv0972/Download_Manager.git) – JavaFX GUI, Multi-threaded downloading with real-time progress  
 - [⚙️ CDR Proxy Server](#) – Dockerized TCP/UDP server for telecom CDR processing with SIP protocol & PostgreSQL optimization
 
 ---
