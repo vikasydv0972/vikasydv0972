@@ -1,7 +1,8 @@
 <!-- Banner -->
-[![MasterHead](banner.png)](https://github.com/vikasydv0972)
+<!--[![MasterHead](banner.png)](https://github.com/vikasydv0972) -->
 
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
+
 <h3 align="center">Backend Developer | Spring Boot • REST APIs • Cloud Enthusiast 🚀</h3>
 
 <p align="center">
